@@ -1,0 +1,81 @@
+.parent{
+    width: 80%;
+    background: url('../img/007.jpg') no-repeat right;
+    margin: 0 auto;
+}
+header{
+    width: 660px;
+    height: 240px;
+    
+}
+header .nav{
+    width: 465px;
+    margin:12px 0 12px 13px;
+}
+header .nav li{
+    width: 113px; 
+    float: left;
+}
+header .nav .box1{
+    display: block;
+    height: 45px;
+    background: url('../img/009.gif') no-repeat;
+}
+header .nav .box2{
+    display: block;
+    height: 45px;
+    background: url('../img/010.gif') no-repeat;
+}
+header .nav .box3{
+    display: block;
+    height: 45px;
+    background: url('../img/011.gif') no-repeat;
+}
+header .nav .box4{
+    display: block;
+    height: 45px;
+    background: url('../img/012.gif') no-repeat;
+}
+header .nav .box1:hover{
+    background: url('../img/018.gif') no-repeat;
+}
+header .nav .box2:hover{
+    background: url('../img/019.gif') no-repeat;
+}
+header .nav .box3:hover{
+    background: url('../img/020.gif') no-repeat;
+}
+header .nav .box4:hover{
+    background: url('../img/021.gif') no-repeat;
+}
+section{
+    width:677px;
+   
+}
+section .p1{
+    display: block;
+    font-size: 20px;
+    color: #495154;
+    padding-bottom:11px;
+}
+section .p2{
+    display: block;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+}
+footer{
+    width: 675px;
+    height: 215px;
+    background: url('../img/013.jpg') no-repeat;
+   
+}
+footer .all{
+    margin-left: 30px;
+    padding-top: 46px;
+}
+footer .all img{
+    border: 3px #7cafa6 solid;
+    padding-right:6px;
+}
